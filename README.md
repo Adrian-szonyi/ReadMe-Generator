@@ -22,7 +22,7 @@ This project runs on node.js and allows users to generate their own readme files
 
 ## Installation
 
-The application runs on node.js you will need to copy the code in Visual Studio and then open the integrated terminal to run the node commands
+The application runs on node.js and is using npm inquirer. You will need to copy the code in Visual Studio and then open the integrated terminal to run the node commands
 
 ## Tests
 
